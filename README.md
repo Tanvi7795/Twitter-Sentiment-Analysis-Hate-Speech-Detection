@@ -1,7 +1,7 @@
 # Twitter-Sentiment-Analysis-Hate-Speech-Detection
 ## Detection of hate speech using Twitter dataset by leveraging term frequency-inverse document frequency (TFIDF) values to multiple machine learning models.
 
-According to Wikipedia, hate speech is defined as “any speech that attacks a person or group on the basis of attributes such as race, religion, ethnic origin, national origin, gender, disability sexual orientation, or gender identity.” As hate speech continues to be a societal problem, the need for automatic hate speech detection systems becomes more apparent. This repository proposes a solution to the detection of hate speech on Twitter through machine learning using TF IDF values.
+According to Wikipedia, hate speech is defined as “any speech that attacks a person or group on the basis of attributes such as race, religion, ethnic origin, national origin, gender, disability sexual orientation, or gender identity.” As hate speech continues to be a societal problem, the need for automatic hate speech detection systems becomes more apparent. This repository proposes a solution to detect hate speech on Twitter through machine learning using TF IDF values.
 
 ## Overview
 TFIDF is a numerical statistic that is intended to reflect how important a word is to a document in a collection. It is used as a weighting factor in searches of information retrieval, text mining, and user modeling.
