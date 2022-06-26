@@ -34,5 +34,14 @@ The classifier model trained using term-frequency-inverse document frequency (TF
 | Logistic Regression   | 0.95     |
 | Naive Bayes           | 0.94     |
 
+## Sneak Peeks
+#### A word cloud is created to get an idea of the most common words utilized in tweets. This was done for both categories of hate and non-hate tweets.
+
+### Positive tweets
+![]()
+
+### Negative tweets
+![]()
+
 
 
