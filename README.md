@@ -38,10 +38,10 @@ The classifier model trained using term-frequency-inverse document frequency (TF
 #### A word cloud is created to get an idea of the most common words utilized in tweets. This was done for both categories of hate and non-hate tweets.
 
 ### Positive tweets
-![]()
+![](sneakpeeks/positive tweets.png)
 
 ### Negative tweets
-![]()
+![](sneakpeeks/negative tweets.png)
 
 
 
