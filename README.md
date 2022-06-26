@@ -18,11 +18,21 @@ The TFIDF algorithm is used to weigh a keyword in any content and assign the imp
 For a term t in a document d, the weight Wt, d of term t in document d is given by:
 Wt, d = TFt, d log (N/DFt) where,
 
-● TFt, d is the number of occurrences of t in document d.<br>
-● DFt is the number of documents containing the term t.<br>
-● N is the total number of documents in the corpus.<br>
+* TFt, d is the number of occurrences of t in document d.<br>
+* DFt is the number of documents containing the term t.<br>
+* N is the total number of documents in the corpus.<br>
 
 The IDF (inverse document frequency) of a word is the measure of how significant that term is in the whole corpus.
+
+## Machine Learning Models
+The classifier model trained using term-frequency-inverse document frequency (TFIDF) as features. A comparative analysis of the results was performed using Random Forest Classifier, Logistic Regression, and Naive Bayes.
+
+#### Upon running the classification algorithms, the following results were obtained:
+| Algorithm             | F1 score |
+| :------------------   | :--------|
+| Random Forest         | 0.96     |
+| Logistic Regression   | 0.95     |
+| Naive Bayes           | 0.94     |
 
 
 
